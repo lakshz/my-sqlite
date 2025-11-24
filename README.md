@@ -8,7 +8,7 @@ A minimal SQLite-style database implemented in C as a learning project.
 make
 ```
 
-This will generated two binaries in `build` directory, `db` and `tests`.
+This will generate two binaries in `build` directory, `db` and `tests`.
 
 
 ## Run 
@@ -21,7 +21,6 @@ Run the database by passing a filename:
 ## Tests
 
 ```sh
-make
 ./build/tests
 ```
 
